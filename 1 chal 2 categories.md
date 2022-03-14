@@ -42,8 +42,8 @@ By changing which value mod 4 is selected, we can pull out different "layers" of
 
 Two of the ones that stand out:
 
-!(https://cdn.discordapp.com/attachments/943687475627442246/944384972133908540/unknown.png)[]
-!(https://cdn.discordapp.com/attachments/943687475627442246/944385346710433812/unknown.png)[]
+![](https://cdn.discordapp.com/attachments/943687475627442246/944384972133908540/unknown.png)
+![](https://cdn.discordapp.com/attachments/943687475627442246/944385346710433812/unknown.png)
 
 The first part of the flag (`flag{two_`) is obvious, and we get the second part by taking every other character from the second picture.
 
